@@ -9,7 +9,7 @@
         },
         "siteLocation": {
             "type": "string",
-            "defaultValue": "North Central US"
+            "defaultValue": "East US"
         },
         "siteName": {
             "type": "string",
